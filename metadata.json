@@ -1,0 +1,5 @@
+{
+  "name": "Integrated Financial Management System",
+  "description": "A standalone financial management application for an e-commerce and logistics company. It manages orders, cost allocation, payments, shareholders, receivables, and provides detailed accounting and reporting, all operating offline with manual data entry.",
+  "requestFramePermissions": []
+}
